@@ -1,0 +1,3 @@
+
+
+buenosaires_locs = ['Azul Aero', 'Bahia Blanca Aero', 'Benito Juarez Aero', 'Bolivar Aero', 'Campo de Mayo Aero', 'Cnel. Pringles Aero', 'Cnel. Suarez Aero', 'Dolores Aero', 'El Palomar Aero', 'Ezeiza Aero', 'Junin Aero', 'La Plata Aero', 'Las Flores Aero', 'Mar del Plata Aero', 'Mariano Moreno Aero', 'Merlo Aero' 'Moron Aero', 'Nueve de Julio', 'Olavarria Aero', ' Pehuajo Aero', 'Pigue Aero', 'Punta Indio B.A.', 'San Fernando', 'Santa Tereista Aero', 'Tandil Aero', 'Trenque Lauquen Aero', 'Tres Arroyos', 'Villa Gessel Aero']
