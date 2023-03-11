@@ -92,3 +92,15 @@ webcolors==1.12
 webencodings==0.5.1
 websocket-client==1.5.1
 widgetsnbextension==4.0.5
+streamlit
+requests
+streamlit-option-menu
+sklearn.model_selection
+sklearn.linear_model
+sklearn.preprocessing
+sklearn.neighbors
+fastapi         # API framework
+pytz            # time zone management
+uvicorn         # web server
+httpx           # HTTP client
+pytest-asyncio  # asynchronous I/O support for pytest
