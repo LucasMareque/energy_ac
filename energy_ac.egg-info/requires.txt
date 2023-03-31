@@ -92,16 +92,3 @@ webcolors==1.12
 webencodings==0.5.1
 websocket-client==1.5.1
 widgetsnbextension==4.0.5
-streamlit
-requests
-streamlit-option-menu
-fastapi
-pytz
-uvicorn
-httpx
-pytest-asyncio
-python-multipart
-openpyxl
-google_cloud_vision
-protobuf==3.20.3
-PIL
